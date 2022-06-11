@@ -1,0 +1,13 @@
+C:\Users\heart\source\repos\iPlus\iPlus\bin\Debug\iPlus.exe.config
+C:\Users\heart\source\repos\iPlus\iPlus\bin\Debug\iPlus.exe
+C:\Users\heart\source\repos\iPlus\iPlus\bin\Debug\iPlus.pdb
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.csprojAssemblyReference.cache
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.Properties.Resources.resources
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.csproj.GenerateResource.cache
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.csproj.CoreCompileInputs.cache
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.exe
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.pdb
+C:\Users\heart\source\repos\iPlus\iPlus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\heart\source\repos\iPlus\iPlus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.csproj.CopyComplete
+C:\Users\heart\source\repos\iPlus\iPlus\obj\Debug\iPlus.Form1.resources
